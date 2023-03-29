@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Cute',
-  base: '/cute/',
+  base: '/cute.github.io/',
   description: 'Just playing around',
   themeConfig: {
     siteTitle: "Cute",
