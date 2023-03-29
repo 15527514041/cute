@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Cute -.-
+  name: Cute -.- || >.<
   text: The theme is the pursuit of cuteness.
   tagline: Lorem ipsum...
   image:
