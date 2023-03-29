@@ -22,4 +22,7 @@ git commit -m 'deploy'
 # 如果是部署到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:15527514041/cute.git main
 
+cd ../../..
+rm -rf docs/.vitepress/dist
+
 cd -
